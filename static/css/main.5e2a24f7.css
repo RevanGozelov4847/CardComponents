@@ -1,0 +1,2 @@
+.row{flex-wrap:wrap;justify-content:space-around}.card,.row{display:flex}.card{align-items:center;border:1px solid #ccc;border-radius:8px;flex-direction:column;margin:10px;padding:20px;transition:box-shadow .3s ease;width:30%}.card:hover{box-shadow:0 4px 8px #0000001a}.card img{border-radius:4px;margin-bottom:10px;max-width:200px;width:100%}.card h2{font-size:1.5rem;margin-bottom:8px}.card p{color:#555}
+/*# sourceMappingURL=main.5e2a24f7.css.map*/

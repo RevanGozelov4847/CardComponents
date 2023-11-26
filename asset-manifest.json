@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CardComponents/static/css/main.5e2a24f7.css",
+    "main.js": "/CardComponents/static/js/main.72c16b71.js",
+    "static/media/car3.jpeg": "/CardComponents/static/media/car3.6c20badb180f2644af68.jpeg",
+    "index.html": "/CardComponents/index.html",
+    "main.5e2a24f7.css.map": "/CardComponents/static/css/main.5e2a24f7.css.map",
+    "main.72c16b71.js.map": "/CardComponents/static/js/main.72c16b71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2a24f7.css",
+    "static/js/main.72c16b71.js"
+  ]
+}
